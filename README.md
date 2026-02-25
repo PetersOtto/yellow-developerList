@@ -16,6 +16,6 @@ If you have any further suggestions, please let me know.
 | GiovanniSalmeri | https://github.com/GiovanniSalmeri |
 | Neville Park | https://github.com/nevillepark |
 | Martin Blomgren | https://github.com/zenblom |
-| Rober | https://github.com/pftnhr |
+| Robert | https://github.com/pftnhr |
 | Simon Pipe | https://codeberg.org/simonpipe |
 | Steffen Schultz | https://github.com/schulle4u |
