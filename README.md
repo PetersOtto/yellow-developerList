@@ -11,7 +11,6 @@ If you have any further suggestions, please let me know.
 | Name | Link |
 |---|---|
 | Anna |  https://github.com/annaesvensson |
-| Arnan de Gans | https://github.com/adegans |
 | Arne Uplegger | https://github.com/upputter |
 | GiovanniSalmeri | https://github.com/GiovanniSalmeri |
 | Neville Park | https://github.com/nevillepark |
